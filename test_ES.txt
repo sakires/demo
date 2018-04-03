@@ -1,0 +1,4 @@
+hola mundo !
+git fue creado por Linus Torvalds en 2005
+Estoy usando git ! 
+git es un software de control de versones
